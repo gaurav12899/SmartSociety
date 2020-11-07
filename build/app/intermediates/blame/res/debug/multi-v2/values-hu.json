@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\appsfluter\\udemy\\ChitChat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+            "outputFile": "D:\\Previous Laptop Data\\appsfluter\\udemy\\ChitChat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jsaur\\.gradle\\caches\\transforms-2\\files-2.1\\6dcaf173f2c8d44810c2bc058b8bc521\\jetified-firebase-messaging-20.0.1\\res\\values-hu\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "207",
-                        "endColumns": "99",
-                        "endOffsets": "306"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "3022",
-                        "endColumns": "103",
-                        "endOffsets": "3121"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jsaur\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\values-hu\\values-hu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "3126",
-                        "endColumns": "100",
-                        "endOffsets": "3222"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jsaur\\.gradle\\caches\\transforms-2\\files-2.1\\6eb14f512292913515d869914807ad40\\play-services-base-17.1.0\\res\\values-hu\\values.xml",
+                    "source": "C:\\Users\\gaura\\.gradle\\caches\\transforms-2\\files-2.1\\6eb14f512292913515d869914807ad40\\play-services-base-17.1.0\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jsaur\\.gradle\\caches\\transforms-2\\files-2.1\\254e2c386a6fea45b151d60cded47892\\jetified-play-services-basement-17.0.0\\res\\values-hu\\values.xml",
+                    "source": "C:\\Users\\gaura\\.gradle\\caches\\transforms-2\\files-2.1\\deb4785d8ad83ba94f295d9b8eeb25ba\\jetified-firebase-messaging-20.0.1\\res\\values-hu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "99",
+                        "endOffsets": "306"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "3022",
+                        "endColumns": "103",
+                        "endOffsets": "3121"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gaura\\.gradle\\caches\\transforms-2\\files-2.1\\5c9bfe44c9e5a74093069f2ad4e786ab\\jetified-play-services-basement-17.0.0\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -69,6 +52,23 @@
                         "startOffsets": "1343",
                         "endColumns": "235",
                         "endOffsets": "1574"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gaura\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "3126",
+                        "endColumns": "100",
+                        "endOffsets": "3222"
                     }
                 }
             ]
